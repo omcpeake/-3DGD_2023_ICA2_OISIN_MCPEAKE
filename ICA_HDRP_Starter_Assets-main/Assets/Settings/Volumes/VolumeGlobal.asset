@@ -391,7 +391,7 @@ MonoBehaviour:
     m_Value: 500
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 50
+    m_Value: 20
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
