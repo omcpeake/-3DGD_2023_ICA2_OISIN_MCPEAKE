@@ -691,7 +691,7 @@ MonoBehaviour:
   active: 1
   mode:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 4
   toeStrength:
     m_OverrideState: 0
     m_Value: 0
@@ -711,8 +711,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   lutTexture:
-    m_OverrideState: 0
-    m_Value: {fileID: 0}
+    m_OverrideState: 1
+    m_Value: {fileID: 11700000, guid: e3a03df5e4db9fa4eb765dcfd946cba2, type: 3}
   lutContribution:
     m_OverrideState: 0
     m_Value: 1
